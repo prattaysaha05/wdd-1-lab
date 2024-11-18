@@ -1,4 +1,4 @@
-.btm {
+.btn {
   background-color: greenyellow;
   padding-left: 10px;
   padding-right: 10px;
@@ -6,4 +6,5 @@
   padding-bottom: 5px;
   font-size: 25px;
   font-weight: bold;
+  text-align: center;
 }
